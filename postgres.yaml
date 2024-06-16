@@ -5,5 +5,5 @@ connection_info:
   user: 'admin'
   password: 'admin'
   host: '127.0.0.1'
-  port: 5432
+  port: 9527
 heartbeat: True
