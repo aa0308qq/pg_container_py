@@ -1,0 +1,3 @@
+redis_host: '127.0.0.1'
+redis_password: 'admin'
+redis_port: 8786

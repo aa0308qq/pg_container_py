@@ -1,0 +1,9 @@
+image_name: postgres:16
+container_name: cold_db
+connection_info:
+  database: 'postgres'
+  user: 'admin'
+  password: 'admin'
+  host: '127.0.0.1'
+  port: 5432
+heartbeat: True
